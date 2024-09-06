@@ -48,7 +48,7 @@ const AnalysisSection = () => {
 
   return (
     <div className="analysis-section">
-      <h2>Ayurveda Boom in the Next 10 Years</h2>
+      <h1 className="analysis-heading">Ayurveda Boom in the Next 10 Years</h1>
       <div className="dropdown-container">
         <label htmlFor="data-category">Choose a category:</label>
         <select

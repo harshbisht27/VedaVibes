@@ -19,7 +19,7 @@ function App() {
       <section id="services"><Services /></section>
       <section id="videoSection"><VideoSection /></section>
       <section id="analysis"><Analysis /></section>
-      <section id="anyQuery"><ChatSection /></section>
+      {/* <section id="anyQuery"><ChatSection /></section> */}
       <section id="contactUs"><ContactUs /></section>
     </div>
   );

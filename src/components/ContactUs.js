@@ -9,7 +9,7 @@ const ContactUs = () => {
           <h3>Contact Us</h3>
           <p>Email: info@vedavibes.com</p>
           <p>Phone: +91 12345 67890</p>
-          <p>Address: 123 Ayurveda Street, Wellness City, India</p>
+          <p>Address: 123 Ayurveda Street, Delhi, India</p>
         </div>
         <div className="credits">
           <p>© 2024 Veda Vibes. All Rights Reserved.</p>
