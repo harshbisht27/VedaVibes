@@ -7,8 +7,9 @@ const Navbar = () => {
 
   // Function to handle Dashboard click and open a new window
   const openDashboard = () => {
-    window.open("https://tejasvi.gov.in/staging/embed/jjTJMBGTkROVXjoLkvWAUWBifjqqKYWKZQYYdcIvWebinfLGJhKHYYYSydAAzDzfSRrbqUFAaxQLHphlmrcqjdSnCO", '_blank');
+    window.location.href = "https://tejasvi.gov.in/staging/embed/jjTJMBGTkROVXjoLkvWAUWBifjqqKYWKZQYYdcIvWebinfLGJhKHYYYSydAAzDzfSRrbqUFAaxQLHphlmrcqjdSnCO";
   };
+  
 
   // Toggle chatbot visibility
   const toggleChatbot = () => {
